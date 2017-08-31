@@ -1,5 +1,5 @@
 # Modern Tables
-##A modern approach to laying out websites.
+## A modern approach to laying out websites.
 
 We all know we're not supposed to use tables for layout any more.  The Modern Tables library provides a simple way to lay out a web site using modern `div` tags.  It even includes a polyfill for `center`!
 
